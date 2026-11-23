@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rawaq</string>
+    <string name="notification_listener_description">Reads active notification counts to display live unread badges on launcher app icons.</string>
+    <string name="floating_service_channel_name">Floating Mini-Apps</string>
+    <string name="floating_service_notification_title">Floating windows active</string>
+    <string name="floating_service_notification_text">Tap to manage or return to Rawaq Launcher.</string>
+</resources>

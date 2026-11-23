@@ -1,0 +1,6 @@
+{
+  "name": "Rawaq",
+  "description": "Glassmorphic Android Home Screen Launcher with Smart Bento Folders, Freeform Floating Windows, Real AppWidgets, Prayer Times Clock, and Full Arabic RTL Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
